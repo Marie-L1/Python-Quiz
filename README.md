@@ -1,7 +1,5 @@
 # Python-Quiz
 CS50 Python Final Project- submitted within the CS50 Repository.
- 
-    #### Video Demo:  <URL HERE>
     #### Description:
 For my final project, I created a quiz testing the user on their Python knowledge. Each of the questions is basic Python. Anyone who took the CS50 Python course or has any general knowledge about programming with Python should know the answers to these questions. 
 I started by creating an introduction for the quiz. I looked further into the font variations for FIGlet and created a fun title. I made sure to keep this introduction outside of the main function, so it only runs at the beginning of the quiz, not when each question is prompted to the user. FIGlet was the only library I researched for my project, but I already had experience using it in Week 4. I wanted my quiz to have an amusing feeling to it, making it a little less dull to look at. 
